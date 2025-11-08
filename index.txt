@@ -9,3 +9,8 @@ shivank singh
 
 lets learn rebase now  we will here learn some rebase commands
 didi ji
+
+
+----------------------------- Merge commands-----------------------
+this is first commit on merge 
+this is second command 
