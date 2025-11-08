@@ -13,3 +13,4 @@ didi ji
 
 ----------------------------- Merge commands-----------------------
 this is first commit on merge 
+this is second command 
