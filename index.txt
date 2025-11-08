@@ -6,3 +6,5 @@ now we will test on fetch
 akash singh 
 
 shivank singh 
+
+lets learn rebase now  we will here learn some rebase commands 
