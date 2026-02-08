@@ -12,5 +12,10 @@ didi ji
 
 
 ----------------------------- Merge commands-----------------------
+this is first commit on merge 
 this is second command 
 lets start working on carrier 
+commit 1
+
+commit 2
+commit 4
