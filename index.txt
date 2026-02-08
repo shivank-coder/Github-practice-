@@ -17,5 +17,4 @@ this is second command
 lets start working on carrier 
 commit 1
 
-commit 2
-commit 4
+commit 6
